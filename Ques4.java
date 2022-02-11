@@ -27,6 +27,6 @@ public class Ques4 implements Runnable{
 //******TWO THREADS
 //Enter num:
 //        Enter num:
-//        10
-//        20
+//        10 ==> Odd Numbers till 10 (1,3,7,9)
+//        20 ==> Odd Numbers till 20(1,3,5,7,9,11,13,15,17,19)
 //        1 3 5 7 9 1 3 5 7 9 11 13 15 17 19
